@@ -30,5 +30,9 @@ The Breast Ultrasound Images Dataset was gathered by Dr. Aly Fahmy and his group
 
 For software requirements, the system should be exposed to [anaconda environment](https://www.anaconda.com/products/distribution) and required libraries should be installed.
 
-Copyrights © 2022 by Neel Patel.
+# Citation
+
+Neel P., Vraj D., Breast Cancer Classification using fine-tuned Convolutional Neural Network. _International Conference on Science, Engineering and Technology Proceedings_, 2022, pp. 141-147. [ISBN: 978-81-959326-0-3](https://soe.rku.ac.in/conferences/icset2022-proceedings.php)
+
+Copyrights © 2023 by Neel Patel.
 All rights are reserved.
